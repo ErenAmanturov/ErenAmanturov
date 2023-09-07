@@ -1,7 +1,7 @@
 
 # Welcome to my simple profile ✌
 
-Hi, my first name is Eren and last name Amanturov. I'm started coding in 2022. That is not a lot, but i am trying hard to learn coding
+Hi, my first name is Eren and last name Amanturov. I started coding in 2022. That is not a lot, but i am trying hard to learn coding
 
 ## My goals
 - 🧠 Learn how to code on C++ n create a simple but interesting game
