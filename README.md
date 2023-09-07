@@ -16,7 +16,7 @@ Hi, my first name is Eren and last name Amanturov. I started coding in 2022. Tha
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
-#### In future the will be more languages 😇
+#### In future there will be more languages 😇
 
 
 
