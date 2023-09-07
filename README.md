@@ -41,5 +41,5 @@ Hi, my first name is Eren and last name Amanturov. I'm started coding in 2022. T
 
 - [Instagram](https://www.instagram.com/aslwayseren/)
   
-     Gmail
+- Gmail
     #### erenamanturov@gmail.com
